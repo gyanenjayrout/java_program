@@ -24,7 +24,7 @@ class MaxAgeException extends Exception{
         return "Make sure that the value of age entered is correct";
     }
 }
-public class cwh_83_exception_class {
+public class xyz {
     public static void main(String[] args) {
         int a;
         Scanner sc = new Scanner(System.in);
